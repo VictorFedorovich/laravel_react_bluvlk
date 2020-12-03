@@ -15,6 +15,7 @@ class UsersTableSeeder extends Seeder
      * @return void
      */
     public function run()
+    
     {
         User::factory()
             ->has(Article::factory(250))
