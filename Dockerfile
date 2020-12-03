@@ -18,6 +18,7 @@ COPY . .
 # Change current user to www-data
 USER www-data
 
+
 # Expose ports and start php-fpm server
 EXPOSE 9000
 CMD ["php-fpm"]

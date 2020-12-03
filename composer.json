@@ -13,6 +13,7 @@
     "laravel-passport",
     "react-router-dom"
   ],
+  
   "license": "MIT",
   "type": "project",
   "require": {

@@ -17,6 +17,7 @@ const ESLintPlugin = require('eslint-webpack-plugin');
 
 const removePlugin = new RemovePlugin({
 
+  
   before: {
     test: [
       {

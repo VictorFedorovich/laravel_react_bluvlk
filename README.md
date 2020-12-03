@@ -1,10 +1,4 @@
 
-
-## Prerequisite
-
-1. Make sure you have [composer](https://getcomposer.org/download/) installed.
-2. Make sure you have latest stable version of [node](https://nodejs.org/en/download/) installed.
-
 ### Option 1
 
 1. `git clone`
@@ -14,6 +8,7 @@
 5. `npm install && npm run dev`
 6. `php artisan key:gen`
 7. `php artisan serve`
+
 
 ### Option 2
 
